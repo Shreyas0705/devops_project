@@ -1,0 +1,1 @@
+# OS\n.DS_Store\nThumbs.db\n\n# Python\n__pycache__/\n*.py[cod]\n*.pyo\n*.pyd\n*.swp\n.venv/\n.env\n.env.*\n.pytest_cache/\n.mypy_cache/\n\n# Node\nnode_modules/\ndist/\nbuild/\ncoverage/\nnpm-debug.log*\nyarn-error.log*\npnpm-debug.log*\n\n# Editors/IDE\n.vscode/\n.idea/\n\n# Temp\ntmp*/\n*.log\n
